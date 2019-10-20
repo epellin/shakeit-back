@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "title": "debate 1",
+        "description": "mi descripcion",
+        "ok_vote": 1,
+        "ko_vote": 2,
+        "created_date" : "11/01/2019"
+    },
+    {
+        "id":2,
+        "title": "debate 2",
+        "description": "mi descripcion",
+        "ok_vote": 3,
+        "ko_vote": 1,
+        "created_date" : "10/01/2019"
+    }
+]
